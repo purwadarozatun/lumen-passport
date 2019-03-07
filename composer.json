@@ -14,7 +14,7 @@
     "type": "library",
     "require": {
         "php": ">=7.0",
-        "laravel/passport": "~4.0"
+        "laravel/passport": "^7.2"
     },
     "autoload": {
         "psr-4": {
